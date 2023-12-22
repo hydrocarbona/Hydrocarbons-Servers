@@ -1,0 +1,12 @@
+{
+  "HydroBucksAccounts": {
+    "Dummy1": {
+      "Password": "Password1",
+      "balance": 300
+    },
+    "Dummy2": {
+      "Password": "Password2",
+      "balance": 0
+    }
+  }
+}
